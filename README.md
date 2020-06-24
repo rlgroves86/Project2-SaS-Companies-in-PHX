@@ -1,1 +1,5 @@
-# Project2-SaS-Companies-in-PHX
+For this project, we want to look at the different software companies in the Phoenix metropolitan area. This will give us a look at what companies are out there, how big they are, and what type of industry they work in. This information will help tremendously when we start our job search. We want to find a way to help job seekers to discover companies in specific industries that resonate with them. We want to empower job seekers with knowledge about the companies that they are interested in working for.
+
+The main idea for our project is to put together a dashboard that can be deployed on a website. You would be able to put in certain key words or phrases into a search, and it would give you the closest result with all of the information that you need for that company. 
+
+We will be using the information from this website: https://gregslist.com/phoenix/search/. To get a good set of information, we are filtering the results to show companies that have been active for at least 6 years. We will be using web scraping techniques to get the information, clean up the data, and putting the information together.
