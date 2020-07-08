@@ -253,6 +253,15 @@ select {
   }
 }
 
+.line {
+  line-height: 20pt;
+}
+
+.centertext {
+
+  text-align:center;
+}
+
 
 
 
